@@ -24,9 +24,6 @@ struct ComponentQuestionCase {
           this.money += 200
         }
       })
-
-
-
     }
     .padding(20)
     .width('80%')
